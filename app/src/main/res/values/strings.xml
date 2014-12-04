@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusterQuery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_show_muster_details">Show Muster Details</string>
+    <string name="button_download_database">Download Database</string>
+
+</resources>
